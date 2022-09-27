@@ -1,11 +1,14 @@
 ## Wave Animation Login Form
 ### Desktop view
 
- 
+![Desktop-view](desktop-preview.png)
+### Desktop view active state
 
-
-![App Screenshot](desktop-preview.png)
-
+![Desktop-view](desktop-preview-active.png)
 ## Mobile view
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Mobile view](mobile-preview.png)
+
+## Mobile view active state
+
+![Mobile View](mobile-preview-active.png)
